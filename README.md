@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Dolev!
 
-<!--
-**dolevfr/dolevfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc student at the Technion Institute of Technology, specializing in **robotics**. My research focuses on **multidrone motion planning**, combining advanced algorithms, optimization, and practical implementations to solve complex motion planning problems.
 
-Here are some ideas to get you started:
+## 👩‍🎓 Academic Background
+- Graduated in **Mechanical Engineering**.
+- Currently pursuing a master's degree in robotics at the Technion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- Multidrone systems and collaborative motion planning.
+- Optimization techniques for efficient and stable drone trajectories.
+- Robotics simulation, control, and real-world applications.
+
+## 📂 Projects
+Here, you’ll find repositories related to:
+- Motion planning algorithms.
+- Robotics simulations and visualizations.
+- Multidrone control and optimization experiments.
+
+## 💬 Reach Me
+Feel free to contact me at: **dolev@campus.technion.ac.il**
+
+Looking forward to connecting and collaborating!
